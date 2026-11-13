@@ -40,7 +40,7 @@ I enjoy solving complex engineering problems, modernizing legacy applications, i
 
 ### Frontend Development
 - Angular 10+
-- React.js
+- React.js (Beginner)
 - HTML5, CSS3, Bootstrap
 - TypeScript and JavaScript
 
@@ -178,8 +178,8 @@ Explore my repositories for available source code and implementation examples.
 
 ## Connect With Me
 
-- **GitHub:** [JairajSinghKushwaha](https://github.com/JairajSinghKushwaha)
-- **LinkedIn:** https://www.linkedin.com/in/jairaj-kushwaha-a067639a
+- **GitHub:** [GitHub Profile](https://github.com/JairajSinghKushwaha)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jairaj-kushwaha-a067639a)
 
 ---
 

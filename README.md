@@ -2,7 +2,7 @@
 
 ### Senior Full Stack .NET Developer | Team Lead | Azure | Microservices | Agentic AI
 
-Senior Full Stack .NET Developer with **nearly 10 years of experience**, including **2 years in technical leadership**, designing and developing scalable, enterprise-grade applications across FinTech, InsurTech, AutoTech, and other business domains.
+Senior Full Stack .NET Developer with **nearly 10 years of experience**, including **2+ years in technical leadership**, designing and developing scalable, enterprise-grade applications across FinTech, InsurTech, AutoTech, and other business domains.
 
 I specialize in building modern applications using **C#, .NET, ASP.NET Core, Angular, Azure, Microservices, and Distributed Systems**. I also work on AI-powered applications and Agentic AI solutions using Azure OpenAI, Semantic Kernel, MCP, and Retrieval-Augmented Generation (RAG).
 
@@ -13,7 +13,7 @@ I enjoy solving complex engineering problems, modernizing legacy applications, i
 ## Professional Highlights
 
 - Nearly **10 years of software development experience** in enterprise application development.
-- **2 years of technical leadership experience**, including architecture design, code reviews, technical decisions, and team collaboration.
+- **2+ years of technical leadership experience**, including architecture design, code reviews, technical decisions, and team collaboration.
 - Designed and developed scalable microservices and event-driven applications using .NET and Azure.
 - Led CI/CD and deployment modernization initiatives, reducing release cycles from **7 days to 2 hours**.
 - Improved deployment reliability by **40%** through automation and streamlined deployment processes.
